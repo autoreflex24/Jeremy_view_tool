@@ -1,6 +1,6 @@
-require "devcamp_view_tool/version"
-require "devcamp_view_tool/renderer"
+require "Jeremy_view_tool/version"
+require "Jeremy_view_tool/renderer"
 
-module DevcampViewTool
+module JeremyViewTool
   # Your code goes here...
 end
