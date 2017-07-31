@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'Jeremy_view_tool/version'
+require 'jeremy_view_tool/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "Jeremy_view_tool"
+  spec.name          = "jeremy_view_tool"
   spec.version       = JeremyViewTool::VERSION
   spec.authors       = ["Jordan Hudgens"]
   spec.email         = ["jordan@devcamp.com"]
